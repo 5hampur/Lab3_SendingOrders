@@ -1,0 +1,14 @@
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.AssemblyInfoInputs.cache
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.AssemblyInfo.cs
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.csproj.CoreCompileInputs.cache
+H:\oopLabs\lab3\bin\Debug\net10.0\lab3.exe
+H:\oopLabs\lab3\bin\Debug\net10.0\lab3.deps.json
+H:\oopLabs\lab3\bin\Debug\net10.0\lab3.runtimeconfig.json
+H:\oopLabs\lab3\bin\Debug\net10.0\lab3.dll
+H:\oopLabs\lab3\bin\Debug\net10.0\lab3.pdb
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.dll
+H:\oopLabs\lab3\obj\Debug\net10.0\refint\lab3.dll
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.pdb
+H:\oopLabs\lab3\obj\Debug\net10.0\lab3.genruntimeconfig.cache
+H:\oopLabs\lab3\obj\Debug\net10.0\ref\lab3.dll
